@@ -1,0 +1,383 @@
+TMyFavBands
+v7
+r0
+t445831999.424237
+cCheck dependencies
+cProcessInfoPlistFile /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Info.plist MyFavBands/Info.plist
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/Main.png Main.png
+cCpResource "build/Debug-iphonesimulator/MyFavBands.app/Little Big Town.jpg" "Little Big Town.jpg"
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/logo76.png logo76.png
+cCpResource "build/Debug-iphonesimulator/MyFavBands.app/Joe Cocker.jpg" "Joe Cocker.jpg"
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/Base.lproj/Main.storyboard MyFavBands/Base.lproj/Main.storyboard
+cCpResource "build/Debug-iphonesimulator/MyFavBands.app/Band Perry.jpg" "Band Perry.jpg"
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/logo402.png logo402.png
+cCpResource "build/Debug-iphonesimulator/MyFavBands.app/38 Special.jpg" "38 Special.jpg"
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/logo292.png logo292.png
+cCompileXIB /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/MyFavBands/Base.lproj/LaunchScreen.xib
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/Eagles.jpg Eagles.jpg
+cCpResource "build/Debug-iphonesimulator/MyFavBands.app/Leonard Skynard.jpg" "Leonard Skynard.jpg"
+cCpResource "build/Debug-iphonesimulator/MyFavBands.app/Miranda Lambert.jpg" "Miranda Lambert.jpg"
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/Journey.jpg Journey.jpg
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/logo291.png logo291.png
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/Images.xcassets MyFavBands/Images.xcassets
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/logo401.png logo401.png
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/logo152.png logo152.png
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/38 Special.jpg
+c0000000054E27268000000000000EF6B
+t1424126568
+s61291
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Band Perry.jpg
+c0000000054E272680000000000011E96
+t1424126568
+s73366
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Eagles.jpg
+c0000000054E27268000000000001DEBD
+t1424126568
+s122557
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Joe Cocker.jpg
+c0000000054E27268000000000006BC5E
+t1424126568
+s441438
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Journey.jpg
+c0000000054E272680000000000020CC2
+t1424126568
+s134338
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Leonard Skynard.jpg
+c0000000054E272680000000000015971
+t1424126568
+s88433
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Little Big Town.jpg
+c0000000054E272680000000000043998
+t1424126568
+s276888
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Main.png
+c0000000054E27268000000000005E965
+t1424126568
+s387429
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Miranda Lambert.jpg
+c0000000054E2726800000000000609F7
+t1424126568
+s395767
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/MyFavBands/Base.lproj/LaunchScreen.xib
+c0000000054E272680000000000000E82
+t1424126568
+s3714
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/MyFavBands/Base.lproj/Main.storyboard
+c0000000054E2726800000000000025F4
+t1424126568
+s9716
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/MyFavBands/Images.xcassets
+c0000000054E272680000000000000066
+t1424126568
+s102
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app
+t1424139198
+s714
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/38 Special.jpg
+t1424139198
+s61291
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Band Perry.jpg
+t1424139198
+s73366
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Base.lproj/LaunchScreen.nib
+t2
+s0
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Base.lproj/Main.storyboard
+t1424139198
+s9716
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Eagles.jpg
+t1424139199
+s122557
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Images.xcassets
+t1424139198
+s102
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Info.plist
+t1424139198
+s1064
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Joe Cocker.jpg
+t1424139198
+s441438
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Journey.jpg
+t1424139199
+s134338
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Leonard Skynard.jpg
+t1424139199
+s88433
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Little Big Town.jpg
+t1424139198
+s276888
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Main.png
+t1424139198
+s387429
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Miranda Lambert.jpg
+t1424139199
+s395767
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/PkgInfo
+t1424139198
+s8
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/logo152.png
+t1424139199
+s66281
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/logo291.png
+t1424139199
+s2922
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/logo292.png
+t1424139198
+s10716
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/logo401.png
+t1424139199
+s19639
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/logo402.png
+t1424139198
+s5316
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/logo76.png
+t1424139198
+s17869
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo152.png
+c0000000054E2726800000000000102E9
+t1424126568
+s66281
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo291.png
+c0000000054E272680000000000000B6A
+t1424126568
+s2922
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo292.png
+c0000000054E2726800000000000029DC
+t1424126568
+s10716
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo401.png
+c0000000054E272680000000000004CB7
+t1424126568
+s19639
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo402.png
+c0000000054E2726800000000000014C4
+t1424126568
+s5316
+
+N/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo76.png
+c0000000054E2726800000000000045CD
+t1424126568
+s17869
+
+NMyFavBands/Info.plist
+c0000000054E2726800000000000006B9
+t1424126568
+s1721
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies445831998#445831998#0(378"[WARN]warning: no rule to process file '$(PROJECT_DIR)/MyFavBands/DetailViewController.swift' of type text for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/MyFavBands/MasterViewController.swift' of type text for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/MyFavBands/AppDelegate.swift' of type text for architecture i3863(22@122"warning: no rule to process file '$(PROJECT_DIR)/MyFavBands/DetailViewController.swift' of type text for architecture i386445831998#18446744073709551615#0#0(1@0"0(22@122"warning: no rule to process file '$(PROJECT_DIR)/MyFavBands/MasterViewController.swift' of type text for architecture i386445831998#18446744073709551615#0#0(1@0"0(22@113"warning: no rule to process file '$(PROJECT_DIR)/MyFavBands/AppDelegate.swift' of type text for architecture i386445831998#18446744073709551615#0#0(1@0"0(0#1#0"17226137344#0"0#
+
+CCompileXIB /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/MyFavBands/Base.lproj/LaunchScreen.xib
+s445831998.615270
+e445831999.424149
+r0
+xCompileXIB
+x/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/MyFavBands/Base.lproj/LaunchScreen.xib
+o/* com.apple.ibtool.errors */
+o/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/MyFavBands/Base.lproj/LaunchScreen.xib: error: Interface Builder was unable to determine the type of "LaunchScreen.xib".
+lSLF07#2@49"CompileXIB MyFavBands/Base.lproj/LaunchScreen.xib445831998#445831999#0(232"/* com.apple.ibtool.errors *//Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/MyFavBands/Base.lproj/LaunchScreen.xib: error: Interface Builder was unable to determine the type of "LaunchScreen.xib".1(4@73"Interface Builder was unable to determine the type of "LaunchScreen.xib".445831999#18446744073709551615#0#0(6@119"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/MyFavBands/Base.lproj/LaunchScreen.xib445819368#0#0#0#0#0"0(0#0#119"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/MyFavBands/Base.lproj/LaunchScreen.xib4317974528#736"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 8.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Base.lproj/LaunchScreen.nib /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/MyFavBands/Base.lproj/LaunchScreen.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk1#
+
+CCpResource "build/Debug-iphonesimulator/MyFavBands.app/38 Special.jpg" "38 Special.jpg"
+s445831998.612283
+e445831998.713130
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/38 Special.jpg
+x38 Special.jpg
+lSLF07#2@19"Copy 38 Special.jpg445831998#445831998#0(0"0(0#0#95"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/38 Special.jpg4317974528#603"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/38 Special.jpg" /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app0#
+
+CCpResource "build/Debug-iphonesimulator/MyFavBands.app/Band Perry.jpg" "Band Perry.jpg"
+s445831998.609243
+e445831998.800273
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/Band Perry.jpg
+xBand Perry.jpg
+lSLF07#2@19"Copy Band Perry.jpg445831998#445831998#0(0"0(0#0#95"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Band Perry.jpg4317974528#603"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Band Perry.jpg" /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app0#
+
+CCpResource "build/Debug-iphonesimulator/MyFavBands.app/Joe Cocker.jpg" "Joe Cocker.jpg"
+s445831998.605873
+e445831998.946903
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/Joe Cocker.jpg
+xJoe Cocker.jpg
+lSLF07#2@19"Copy Joe Cocker.jpg445831998#445831998#0(0"0(0#0#95"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Joe Cocker.jpg4317974528#603"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Joe Cocker.jpg" /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app0#
+
+CCpResource "build/Debug-iphonesimulator/MyFavBands.app/Leonard Skynard.jpg" "Leonard Skynard.jpg"
+s445831998.948272
+e445831999.070612
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/Leonard Skynard.jpg
+xLeonard Skynard.jpg
+lSLF07#2@24"Copy Leonard Skynard.jpg445831998#445831999#0(0"0(0#0#100"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Leonard Skynard.jpg4317974528#608"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Leonard Skynard.jpg" /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app0#
+
+CCpResource "build/Debug-iphonesimulator/MyFavBands.app/Little Big Town.jpg" "Little Big Town.jpg"
+s445831998.603502
+e445831998.842944
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/Little Big Town.jpg
+xLittle Big Town.jpg
+lSLF07#2@24"Copy Little Big Town.jpg445831998#445831998#0(0"0(0#0#100"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Little Big Town.jpg4317974528#608"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Little Big Town.jpg" /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app0#
+
+CCpResource "build/Debug-iphonesimulator/MyFavBands.app/Miranda Lambert.jpg" "Miranda Lambert.jpg"
+s445831998.949361
+e445831999.068860
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/Miranda Lambert.jpg
+xMiranda Lambert.jpg
+lSLF07#2@24"Copy Miranda Lambert.jpg445831998#445831999#0(0"0(0#0#100"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Miranda Lambert.jpg4317974528#608"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Miranda Lambert.jpg" /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/Base.lproj/Main.storyboard MyFavBands/Base.lproj/Main.storyboard
+s445831998.607586
+e445831998.667052
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/Base.lproj/Main.storyboard
+xMyFavBands/Base.lproj/Main.storyboard
+lSLF07#2@42"Copy MyFavBands/Base.lproj/Main.storyboard445831998#445831998#0(0"0(0#0#118"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/MyFavBands/Base.lproj/Main.storyboard4317974528#635"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/MyFavBands/Base.lproj/Main.storyboard /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Base.lproj0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/Eagles.jpg Eagles.jpg
+s445831998.947011
+e445831999.046701
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/Eagles.jpg
+xEagles.jpg
+lSLF07#2@15"Copy Eagles.jpg445831998#445831999#0(0"0(0#0#91"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Eagles.jpg17195221760#597"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Eagles.jpg /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/Images.xcassets MyFavBands/Images.xcassets
+s445831998.954168
+e445831999.119331
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/Images.xcassets
+xMyFavBands/Images.xcassets
+lSLF07#2@31"Copy MyFavBands/Images.xcassets445831998#445831999#0(0"0(0#0#107"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/MyFavBands/Images.xcassets4317974528#613"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/MyFavBands/Images.xcassets /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/Journey.jpg Journey.jpg
+s445831998.951017
+e445831999.069565
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/Journey.jpg
+xJourney.jpg
+lSLF07#2@16"Copy Journey.jpg445831998#445831999#0(0"0(0#0#92"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Journey.jpg4317974528#598"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Journey.jpg /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/Main.png Main.png
+s445831998.602278
+e445831998.879338
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/Main.png
+xMain.png
+lSLF07#2@13"Copy Main.png445831998#445831998#0(0"0(0#0#89"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Main.png4317974528#595"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/Main.png /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/logo152.png logo152.png
+s445831998.957296
+e445831999.070474
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/logo152.png
+xlogo152.png
+lSLF07#2@16"Copy logo152.png445831998#445831999#0(0"0(0#0#92"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo152.png4317974528#598"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo152.png /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/logo291.png logo291.png
+s445831998.952580
+e445831999.004254
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/logo291.png
+xlogo291.png
+lSLF07#2@16"Copy logo291.png445831998#445831999#0(0"0(0#0#92"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo291.png4317974528#598"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo291.png /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/logo292.png logo292.png
+s445831998.613778
+e445831998.654634
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/logo292.png
+xlogo292.png
+lSLF07#2@16"Copy logo292.png445831998#445831998#0(0"0(0#0#92"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo292.png4317974528#598"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo292.png /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/logo401.png logo401.png
+s445831998.955764
+e445831999.004500
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/logo401.png
+xlogo401.png
+lSLF07#2@16"Copy logo401.png445831998#445831999#0(0"0(0#0#92"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo401.png4317974528#598"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo401.png /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/logo402.png logo402.png
+s445831998.610752
+e445831998.654834
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/logo402.png
+xlogo402.png
+lSLF07#2@16"Copy logo402.png445831998#445831998#0(0"0(0#0#92"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo402.png4317974528#598"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo402.png /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/logo76.png logo76.png
+s445831998.604234
+e445831998.655220
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/logo76.png
+xlogo76.png
+lSLF07#2@15"Copy logo76.png445831998#445831998#0(0"0(0#0#91"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo76.png4317974528#597"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/logo76.png /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app0#
+
+CProcessInfoPlistFile /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Info.plist MyFavBands/Info.plist
+s445831998.556562
+e445831998.602197
+r1
+xProcessInfoPlistFile
+x/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Info.plist
+xMyFavBands/Info.plist
+lSLF07#2@29"Process MyFavBands/Info.plist445831998#445831998#0(0"0(0#0#102"/Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/MyFavBands/Info.plist17210005504#614"    cd /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MyFavBands/Info.plist -genpkginfo /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app/Info.plist0#
+
+CTouch /Users/webstudent/Desktop/Week-6-Screen-Rotation-Master-Detail-master/MyFavBands/build/Debug-iphonesimulator/MyFavBands.app
+r0
+
